@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/atk-protein-supplement-app/static/css/main.d1c30711.css",
+    "main.js": "/atk-protein-supplement-app/static/js/main.8732f466.js",
+    "index.html": "/atk-protein-supplement-app/index.html",
+    "main.d1c30711.css.map": "/atk-protein-supplement-app/static/css/main.d1c30711.css.map",
+    "main.8732f466.js.map": "/atk-protein-supplement-app/static/js/main.8732f466.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d1c30711.css",
+    "static/js/main.8732f466.js"
+  ]
+}
